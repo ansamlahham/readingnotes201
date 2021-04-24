@@ -8,7 +8,7 @@ Thank you for visiting my page , I am continuing my journey at software developm
 
 | Reading topic       | live URL |
 | :---        |    :----:   |       
-| Read01   |    | 
+| Read01   |   [Link](https://ansamlahham.github.io/readingnotes201/class-01) | 
 | Read02   |      |
 | Read03   |    |
 | Read04   |     | 
