@@ -4,11 +4,11 @@
 
 HTML has six "levels" of headings:
 
-<h1> is used for main headings
+h1 is used for main headings
 
-<h2> is used for subheadings
+h2 is used for subheadings
 
-If there are further sections under the subheadings then the <h3> element is used, and so on...
+If there are further sections under the subheadings then the h3 element is used, and so on...
 
 ![](https://www.tutorialrepublic.com/lib/images/html/html-headings.png)
 
@@ -16,18 +16,18 @@ If there are further sections under the subheadings then the <h3> element is use
 
 ## Paragraphs
 
-<p>
-To create a paragraph, surround the words that make up the paragraph with an opening <p> tag and closing </p> tag.
+p
+To create a paragraph, surround the words that make up the paragraph with an opening tag and closing </p> tag.
 
 ### Bold & Italic
 
-<b>
+b
 By enclosing words in the tags <b> and </b> we can make characters appear bold.
 The <b> element also represents a section of text that would be
 presented in a visually different way (for example key words in a
 paragraph) although the use of the <b> element does not imply any additional meaning.
 
-<i>
+i
 By enclosing words in the tags <i> and </i> we can make
 characters appear italic. The <i> element also represents
 a section of text that would be said in a different way from
@@ -35,11 +35,12 @@ surrounding content — such as technical terms, names of ships, foreign words, 
 
 Superscript & Subscript
 
-<sup>
-The <sup> element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like
+sup
+The sup element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like
 raising a number to a power such as 22.
 
-<sub> The <sub> element is used to contain characters that should
+sub 
+The sub element is used to contain characters that should
 be subscript. It is commonly used with foot notes or chemical
 formulas such as H20.
 
@@ -66,11 +67,11 @@ The below will be shown as an images examples:
 
 ### Strong & Emphasis
 
-<strong>
+strong
 
 ![](https://www.w3resource.com/w3r_images/html-strong-example.png)
 
-<em>
+em
 
 ![](https://www.w3resource.com/w3r_images/HTML-em.png)
 
@@ -103,12 +104,12 @@ several properties in one declaration, each separated by a semi-colon.
 
 *Using External CSS*
 
-<link> 
+link
 
-The <link> element can be used in an HTML document to tell the
+The link element can be used in an HTML document to tell the
 browser where to find the CSS file used to style the page. It is an
 empty element (meaning it does not need a closing tag), and it
-lives inside the <head> element.
+lives inside the head element.
 It should use three attributes:
 
 * href
@@ -124,10 +125,10 @@ This specifies the relationship between the HTML page and the file it is linked 
 
 *Using Internal CSS*
 
-<style>
+style
 
-You can also include CSS rules within an HTML page by placing them inside a <style> element, which usually sits inside the <head> element of the page.
-The <style> element should use the type attribute to indicate
+You can also include CSS rules within an HTML page by placing them inside a style element, which usually sits inside the head element of the page.
+The style element should use the type attribute to indicate
 that the styles are specified in CSS. The value should be text/
 css.
 When building a site with more than one page, you should use
