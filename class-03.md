@@ -52,7 +52,7 @@ Box dimensions (height , weidth)
 
     **JAVASCRIPT**
 
-    ### LOOPS:
+    LOOPS:
 
     ![](https://www.javascripttutorial.net/wp-content/uploads/2020/01/JavaScript-for-Loop.png)
 
