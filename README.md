@@ -15,7 +15,7 @@ Thank you for visiting my page , I am continuing my journey at software developm
 | Read05   |  [Link](https://ansamlahham.github.io/readingnotes201/class-05)    |
 | Read06   |   [Link](https://ansamlahham.github.io/readingnotes201/class-06)    |
 | Read07   | [Link](https://ansamlahham.github.io/readingnotes201/class-07)     | 
-| Read08   |     |
+| Read08   |[Link](https://ansamlahham.github.io/readingnotes201/class-08)      |
 | Read09   |    | 
 | Read10   |     |
 | Read11   |  |
